@@ -1,0 +1,550 @@
+- generic [ref=e3]:
+  - banner:
+    - navigation [ref=e4]:
+      - link "Bhavin Shankur Portfolio Home" [ref=e5] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e6]: BS
+        - generic [ref=e7]: Bhavin Shankur
+      - generic [ref=e8]:
+        - link "About" [ref=e9] [cursor=pointer]:
+          - /url: "#about"
+        - link "Projects" [ref=e10] [cursor=pointer]:
+          - /url: "#projects"
+        - link "Skills" [ref=e11] [cursor=pointer]:
+          - /url: "#skills"
+        - link "Certifications" [ref=e12] [cursor=pointer]:
+          - /url: "#certifications"
+        - link "Leadership" [ref=e13] [cursor=pointer]:
+          - /url: "#leadership"
+        - link "Contact" [ref=e14] [cursor=pointer]:
+          - /url: "#contact"
+      - generic [ref=e15]:
+        - link "Resume" [ref=e16] [cursor=pointer]:
+          - /url: ./resume/Bhavin Shankur - Resume.docx
+        - link "GitHub Profile" [ref=e22] [cursor=pointer]:
+          - /url: https://github.com/exobhavinss-sketch
+        - button "Switch to dark mode" [ref=e26] [cursor=pointer]
+  - main [ref=e34]:
+    - generic [ref=e36]:
+      - generic [ref=e37]: AI Engineer • Full-Stack Developer • Startup Mindset
+      - heading "Bhavin Shriniwas Shankur" [level=1] [ref=e40]
+      - paragraph [ref=e41]: Architecting Intelligent Local AI Systems & High-Performance Web with Craft & Precision.
+      - paragraph [ref=e42]: 2nd-year B.Tech CSE (AIML) student at MIT Vishwaprayag University. Creator of production-grade Retrieval-Augmented Generation (RAG) pipelines, local LLM integrations, and interactive 3D WebGL experiences.
+      - generic [ref=e43]:
+        - link "Download Bhavin Shankur's Resume in DOCX format" [ref=e46] [cursor=pointer]:
+          - /url: ./resume/Bhavin Shankur - Resume.docx
+          - generic [ref=e52]: Download Resume
+          - generic [ref=e53]: DOCX
+        - link "Explore Work" [ref=e57] [cursor=pointer]:
+          - /url: "#projects"
+        - link "GitHub" [ref=e61] [cursor=pointer]:
+          - /url: https://github.com/exobhavinss-sketch
+      - generic [ref=e67]:
+        - generic [ref=e73]:
+          - generic [ref=e74]:
+            - heading "Local Neural Inference & RAG" [level=3] [ref=e75]
+            - generic [ref=e76]: Offline First
+          - paragraph [ref=e77]: 100% private semantic search powered by Ollama, FAISS, and LangChain without external cloud APIs.
+        - generic [ref=e78]:
+          - generic [ref=e79]: Zero API Costs
+          - generic [ref=e83]: FastAPI + Streamlit
+      - generic [ref=e86]:
+        - generic [ref=e87]:
+          - generic [ref=e88]: 3+
+          - generic [ref=e89]: Flagship AI Applications
+        - generic [ref=e90]:
+          - generic [ref=e91]: 7+
+          - generic [ref=e92]: Industry Certifications
+        - generic [ref=e93]:
+          - generic [ref=e94]: 100%
+          - generic [ref=e95]: Local RAG Privacy
+        - generic [ref=e96]:
+          - generic [ref=e97]: "2029"
+          - generic [ref=e98]: B.Tech CSE (AIML)
+    - generic [ref=e100]:
+      - generic [ref=e101]:
+        - generic [ref=e102]: The Story & Philosophy
+        - heading "Designed for Innovation. Engineered for Impact." [level=2] [ref=e103]
+        - paragraph [ref=e104]: A second-year computer science engineer fusing cutting-edge machine learning with high-polish user experiences.
+      - generic [ref=e105]:
+        - generic [ref=e106]:
+          - generic [ref=e107]:
+            - generic [ref=e108]: Background & Vision
+            - heading "Building technology that meaningfully improves the computing world." [level=3] [ref=e113]
+            - paragraph [ref=e114]: Second-year B.Tech student specializing in Artificial Intelligence & Machine Learning at MIT Vishwaprayag University, with hands-on experience building full-stack and AI-powered applications spanning Retrieval-Augmented Generation (RAG), local LLM integration, and backend development with FastAPI, LangChain, and FAISS. Active open-source contributor with a growing GitHub portfolio and a strong interest in software development, cloud computing, and problem-solving. Aspiring startup founder driven to build technology that meaningfully improves the computing world.
+            - generic [ref=e121]:
+              - heading "MIT Vishwaprayag University, Solapur" [level=4] [ref=e122]
+              - paragraph [ref=e123]: B.Tech in Computer Science & Engineering (AI & Machine Learning) (2025 – 2029 (Currently in 2nd Year))
+              - paragraph [ref=e124]: Focused on machine learning theory, deep neural networks, operating systems, algorithms, and distributed computing architectures.
+          - generic [ref=e125]:
+            - generic [ref=e126]: Current Status
+            - generic [ref=e127]: Available for AI Engineering & Full-Stack Opportunities
+        - generic [ref=e129]:
+          - generic [ref=e130]:
+            - heading "Startup Ambition" [level=4] [ref=e138]
+            - paragraph [ref=e139]: Driven to build a technology startup that brings intelligent, accessible, and high-performance computing tools to real-world users and businesses.
+          - generic [ref=e140]:
+            - heading "Local AI & Privacy First" [level=4] [ref=e146]
+            - paragraph [ref=e147]: Pioneering offline-capable RAG architectures using Ollama, FAISS, and LangChain that run securely without relying on third-party cloud APIs or recurring API costs.
+          - generic [ref=e148]:
+            - heading "End-to-End Craftsmanship" [level=4] [ref=e155]
+            - paragraph [ref=e156]: From low-level procedural GLSL shaders and Three.js 3D scenes to FastAPI async microservices and vector databases, every detail is engineered with precision.
+    - generic [ref=e158]:
+      - generic [ref=e159]:
+        - generic [ref=e160]: Featured Projects
+        - heading "Engineered from First Principles. Built for Scale." [level=2] [ref=e161]
+        - paragraph [ref=e162]: A selection of end-to-end AI applications, 3D WebGL simulations, and open-source developer tooling.
+      - generic [ref=e163]:
+        - button "All" [ref=e164] [cursor=pointer]
+        - button "AI / RAG" [ref=e165] [cursor=pointer]
+        - button "3D & WebGL" [ref=e166] [cursor=pointer]
+        - button "Backend & DevTools" [ref=e167] [cursor=pointer]
+      - generic [ref=e168]:
+        - generic [ref=e169]:
+          - generic [ref=e170]:
+            - generic [ref=e171]:
+              - generic [ref=e172]: AI / RAG
+              - generic [ref=e173]: Flagship
+            - heading "Book RAG Chatbot" [level=3] [ref=e177]
+            - paragraph [ref=e178]: Artificial Intelligence Strategy Assistant
+            - generic [ref=e179]: Zero Cloud Dependencies. 100% Local Vector Intelligence.
+            - paragraph [ref=e183]: A fully local Retrieval-Augmented Generation (RAG) system that delivers accurate answers from AI strategy literature with multi-strategy retrieval, reranking, source citations, confidence scoring, and anti-hallucination verification.
+            - generic [ref=e184]:
+              - generic [ref=e185]: Multi-strategy hybrid search combining semantic similarity & keyword retrieval
+              - generic [ref=e190]: Cross-encoder reranking for context-optimal document chunk ranking
+            - generic [ref=e195]:
+              - generic [ref=e196]: Python
+              - generic [ref=e197]: Streamlit
+              - generic [ref=e198]: Ollama
+              - generic [ref=e199]: ChromaDB
+              - generic [ref=e200]: FAISS
+              - generic [ref=e201]: +4 more
+          - generic [ref=e202]:
+            - link "GitHub" [ref=e203] [cursor=pointer]:
+              - /url: https://github.com/exobhavinss-sketch/Artifical-Intelligence-Chatbot
+            - button "View Architecture" [ref=e211] [cursor=pointer]
+        - generic [ref=e216]:
+          - generic [ref=e217]:
+            - generic [ref=e218]:
+              - generic [ref=e219]: 3D & WebGL
+              - generic [ref=e220]: Flagship
+            - heading "Our Earth — The Living Planet" [level=3] [ref=e224]
+            - paragraph [ref=e225]: Cinematic 3D Planetary Journey
+            - generic [ref=e226]: 4.5 Billion Years of Earth Rendered in Real-Time 3D.
+            - paragraph [ref=e230]: An interactive 3D educational web experience exploring Earth's 4.5-billion-year history through cinematic scroll choreography, procedural GLSL planetary shaders, dynamic atmospheric scattering, and real-time CO₂ climate visualization.
+            - generic [ref=e231]:
+              - generic [ref=e232]: Procedurally rendered 3D Earth model with dynamic lighting and atmosphere
+              - generic [ref=e237]: Custom GLSL shaders for realistic continental crust and aurora borealis
+            - generic [ref=e242]:
+              - generic [ref=e243]: React
+              - generic [ref=e244]: TypeScript
+              - generic [ref=e245]: Vite
+              - generic [ref=e246]: Three.js
+              - generic [ref=e247]: React Three Fiber
+              - generic [ref=e248]: +6 more
+          - generic [ref=e249]:
+            - link "GitHub" [ref=e250] [cursor=pointer]:
+              - /url: https://github.com/exobhavinss-sketch/Our-Earth
+            - button "View Architecture" [ref=e258] [cursor=pointer]
+        - generic [ref=e263]:
+          - generic [ref=e264]:
+            - generic [ref=e265]:
+              - generic [ref=e266]: Backend & DevTools
+              - generic [ref=e267]: Flagship
+            - heading "GitHub Mentor AI" [level=3] [ref=e271]
+            - paragraph [ref=e272]: Intelligent Developer Workflow Assistant
+            - generic [ref=e273]: Instant Semantic Answers & Streaming Git Guidance.
+            - paragraph [ref=e277]: An open-source AI mentoring backend providing low-latency streaming guidance on Git, GitHub workflows, web development, and programming inquiries via FAISS-based semantic search and Ollama.
+            - generic [ref=e278]:
+              - generic [ref=e279]: High-performance FastAPI asynchronous backend with Pydantic validation
+              - generic [ref=e284]: Real-time token streaming over Server-Sent Events (SSE)
+            - generic [ref=e289]:
+              - generic [ref=e290]: Python
+              - generic [ref=e291]: FastAPI
+              - generic [ref=e292]: Ollama
+              - generic [ref=e293]: FAISS
+              - generic [ref=e294]: RAG Architecture
+              - generic [ref=e295]: +4 more
+          - generic [ref=e296]:
+            - link "GitHub" [ref=e297] [cursor=pointer]:
+              - /url: https://github.com/exobhavinss-sketch/GitHub-Mentor-AI
+            - button "View Architecture" [ref=e305] [cursor=pointer]
+        - generic [ref=e310]:
+          - generic [ref=e311]:
+            - generic [ref=e312]: Education
+            - heading "AI Pathfinder Buddy" [level=3] [ref=e314]
+            - paragraph [ref=e315]: Accessible AI Learning Platform
+            - generic [ref=e316]: Democratizing Artificial Intelligence for New Learners.
+            - paragraph [ref=e320]: An open-source educational application engineered to help new computer science students navigate foundational AI concepts, algorithms, and machine learning principles through curated roadmaps.
+            - generic [ref=e321]:
+              - generic [ref=e322]: Step-by-step interactive AI learning roadmap for beginners
+              - generic [ref=e327]: Practical coding examples and algorithm visual representations
+            - generic [ref=e332]:
+              - generic [ref=e333]: Python
+              - generic [ref=e334]: AI / ML
+              - generic [ref=e335]: Open Source
+              - generic [ref=e336]: Education
+              - generic [ref=e337]: Roadmaps
+          - generic [ref=e338]:
+            - link "GitHub" [ref=e339] [cursor=pointer]:
+              - /url: https://github.com/exobhavinss-sketch/ai-pathfinder-buddy-18
+            - button "View Architecture" [ref=e347] [cursor=pointer]
+      - generic [ref=e352]:
+        - generic [ref=e358]:
+          - heading "Explore More Open-Source Work" [level=4] [ref=e359]
+          - paragraph [ref=e360]: Review all repositories, RAG pipelines, and experimentation on GitHub.
+        - link "Visit @exobhavinss-sketch" [ref=e361] [cursor=pointer]:
+          - /url: https://github.com/exobhavinss-sketch
+    - generic [ref=e367]:
+      - generic [ref=e368]:
+        - generic [ref=e369]: Technical Stack & Architecture
+        - heading "Deep Technical Breadth. Laser Precision." [level=2] [ref=e370]
+        - paragraph [ref=e371]: A comprehensive matrix of languages, machine learning frameworks, databases, and developer tooling mastered through hands-on development.
+      - generic [ref=e372]:
+        - generic [ref=e373]:
+          - button [ref=e374] [cursor=pointer]:
+            - generic [ref=e380]:
+              - heading "AI, ML & RAG Engineering" [level=4] [ref=e381]
+              - paragraph [ref=e382]: 8 core competencies
+          - button [ref=e385] [cursor=pointer]:
+            - generic [ref=e392]:
+              - heading "Programming Languages" [level=4] [ref=e393]
+              - paragraph [ref=e394]: 5 core competencies
+          - button [ref=e397] [cursor=pointer]:
+            - generic [ref=e402]:
+              - heading "Frontend & 3D Web Experience" [level=4] [ref=e403]
+              - paragraph [ref=e404]: 6 core competencies
+          - button [ref=e407] [cursor=pointer]:
+            - generic [ref=e413]:
+              - heading "Backend & Cloud Infrastructure" [level=4] [ref=e414]
+              - paragraph [ref=e415]: 5 core competencies
+          - button [ref=e418] [cursor=pointer]:
+            - generic [ref=e423]:
+              - heading "Developer Tooling & DevOps" [level=4] [ref=e424]
+              - paragraph [ref=e425]: 4 core competencies
+        - generic [ref=e428]:
+          - generic [ref=e430]:
+            - text: Category Spotlight
+            - heading "AI, ML & RAG Engineering" [level=3] [ref=e431]
+            - paragraph [ref=e432]: End-to-end generative AI, local inference, and vector search systems
+          - generic [ref=e433]:
+            - generic [ref=e434]:
+              - generic [ref=e435]:
+                - generic [ref=e436]: RAG Architecture
+                - generic [ref=e437]: Expert
+              - paragraph [ref=e438]: Multi-strategy retrieval & reranking
+            - generic [ref=e439]:
+              - generic [ref=e440]:
+                - generic [ref=e441]: LangChain
+                - generic [ref=e442]: Advanced
+              - paragraph [ref=e443]: Agentic workflows & prompt pipelines
+            - generic [ref=e444]:
+              - generic [ref=e445]:
+                - generic [ref=e446]: Ollama / Local LLMs
+                - generic [ref=e447]: Expert
+              - paragraph [ref=e448]: Private zero-cloud inference
+            - generic [ref=e449]:
+              - generic [ref=e450]:
+                - generic [ref=e451]: FAISS & ChromaDB
+                - generic [ref=e452]: Advanced
+              - paragraph [ref=e453]: High-dimensional vector indexes
+            - generic [ref=e454]:
+              - generic [ref=e455]:
+                - generic [ref=e456]: Sentence Transformers
+                - generic [ref=e457]: Advanced
+              - paragraph [ref=e458]: Semantic embeddings
+            - generic [ref=e459]:
+              - generic [ref=e460]:
+                - generic [ref=e461]: NumPy & Pandas
+                - generic [ref=e462]: Advanced
+              - paragraph [ref=e463]: Data analysis & vectorization
+            - generic [ref=e464]:
+              - generic [ref=e465]:
+                - generic [ref=e466]: Scikit-Learn
+                - generic [ref=e467]: Advanced
+              - paragraph [ref=e468]: Classical ML & evaluation
+            - generic [ref=e469]:
+              - generic [ref=e470]:
+                - generic [ref=e471]: PyMuPDF & Tesseract
+                - generic [ref=e472]: Advanced
+              - paragraph [ref=e473]: OCR & document ingestion
+    - generic [ref=e475]:
+      - generic [ref=e476]:
+        - generic [ref=e477]: Industry Credentials & Upskilling
+        - heading "Verified Competence. Continuous Mastery." [level=2] [ref=e478]
+        - paragraph [ref=e479]: A track record of 7+ professional certifications across cloud architecture, generative AI, algorithmic development, and cybersecurity.
+      - generic [ref=e480]:
+        - button "All" [ref=e481] [cursor=pointer]
+        - button "AI & Generative AI" [ref=e482] [cursor=pointer]
+        - button "Cloud & Systems" [ref=e483] [cursor=pointer]
+        - button "Programming & DSA" [ref=e484] [cursor=pointer]
+        - button "Practical & Internship" [ref=e485] [cursor=pointer]
+      - generic [ref=e486]:
+        - generic [ref=e487]:
+          - generic [ref=e488]:
+            - generic [ref=e489]: Cloud & Systems
+            - heading "Oracle Cloud Infrastructure Foundations" [level=4] [ref=e494]
+            - paragraph [ref=e495]: Issued by Oracle
+            - paragraph [ref=e496]: Core cloud architecture, identity management, compute, and security.
+          - generic [ref=e497]: Verified Credential
+        - generic [ref=e502]:
+          - generic [ref=e503]:
+            - generic [ref=e504]: Programming & DSA
+            - heading "Python for Data Science, AI & Development" [level=4] [ref=e509]
+            - paragraph [ref=e510]: Issued by Industry Certification
+            - paragraph [ref=e511]: Data manipulation, algorithmic modeling, and AI application design.
+          - generic [ref=e512]: Verified Credential
+        - generic [ref=e517]:
+          - generic [ref=e518]:
+            - generic [ref=e519]: AI & Generative AI
+            - heading "Prompt Engineering for ChatGPT & OpenAI GPTs" [level=4] [ref=e524]
+            - paragraph [ref=e525]: Issued by OpenAI / Generative AI
+            - paragraph [ref=e526]: Advanced prompt synthesis, custom GPT agent construction, and system design.
+          - generic [ref=e527]: Verified Credential
+        - generic [ref=e532]:
+          - generic [ref=e533]:
+            - generic [ref=e534]: Cloud & Systems
+            - heading "Microsoft Azure AI Foundations" [level=4] [ref=e539]
+            - paragraph [ref=e540]: Issued by Microsoft Azure
+            - paragraph [ref=e541]: Cloud-based computer vision, NLP, and cognitive services.
+          - generic [ref=e542]: Verified Credential
+        - generic [ref=e547]:
+          - generic [ref=e548]:
+            - generic [ref=e549]: Cloud & Systems
+            - heading "Google Cloud AI Foundations" [level=4] [ref=e554]
+            - paragraph [ref=e555]: Issued by Google Cloud
+            - paragraph [ref=e556]: GCP Machine learning pipelines and Vertex AI infrastructure.
+          - generic [ref=e557]: Verified Credential
+        - generic [ref=e562]:
+          - generic [ref=e563]:
+            - generic [ref=e564]: AI & Generative AI
+            - heading "NVIDIA AI & Networking" [level=4] [ref=e569]
+            - paragraph [ref=e570]: Issued by NVIDIA
+            - paragraph [ref=e571]: High-performance GPU computing architectures and networking.
+          - generic [ref=e572]: Verified Credential
+        - generic [ref=e577]:
+          - generic [ref=e578]:
+            - generic [ref=e579]: Programming & DSA
+            - heading "Introduction to Programming with MATLAB" [level=4] [ref=e584]
+            - paragraph [ref=e585]: Issued by MathWorks
+            - paragraph [ref=e586]: Matrix computations, mathematical modeling, and algorithm development.
+          - generic [ref=e587]: Verified Credential
+        - generic [ref=e592]:
+          - generic [ref=e593]:
+            - generic [ref=e594]: Programming & DSA
+            - heading "C++ (Object-Oriented Programming) Training" [level=4] [ref=e599]
+            - paragraph [ref=e600]: Issued by Technical Training
+            - paragraph [ref=e601]: Memory management, OOP design patterns, templates, and data structures.
+          - generic [ref=e602]: Verified Credential
+        - generic [ref=e607]:
+          - generic [ref=e608]:
+            - generic [ref=e609]: AI & Generative AI
+            - heading "Yuva AI for All (Completion + Report)" [level=4] [ref=e614]
+            - paragraph [ref=e615]: Issued by Yuva AI Initiative
+            - paragraph [ref=e616]: Applied AI nationwide program with technical project reporting.
+          - generic [ref=e617]: Verified Credential
+        - generic [ref=e622]:
+          - generic [ref=e623]:
+            - generic [ref=e624]: Practical & Internship
+            - heading "2-Month Web Development Internship" [level=4] [ref=e629]
+            - paragraph [ref=e630]: Issued by Internship Experience
+            - paragraph [ref=e631]: Hands-on production frontend development with HTML, CSS, and modern UI practices.
+          - generic [ref=e632]: Verified Credential
+        - generic [ref=e637]:
+          - generic [ref=e638]:
+            - generic [ref=e639]: Cloud & Systems
+            - heading "Cisco Networking & Cybersecurity" [level=4] [ref=e644]
+            - paragraph [ref=e645]: Issued by Cisco
+            - paragraph [ref=e646]: Network protocols, routing, firewalls, and cyber defensive principles.
+          - generic [ref=e647]: Verified Credential
+    - generic [ref=e653]:
+      - generic [ref=e654]:
+        - generic [ref=e655]: Leadership & Social Impact
+        - heading "Engineering for Communities. Real-World Impact." [level=2] [ref=e656]
+        - paragraph [ref=e657]: Collaborative innovation addressing global sustainability and civic water safety through edge AI.
+      - generic [ref=e659]:
+        - generic [ref=e660]:
+          - generic [ref=e661]:
+            - generic [ref=e662]: Samved Hackathon
+            - generic [ref=e663]: Team TheChernobylIsotopes
+            - generic [ref=e664]: Solapur, Maharashtra
+          - heading "AI-Enabled Solar Water Quality Monitoring System" [level=3] [ref=e665]
+          - paragraph [ref=e666]: Engineered an innovative, low-cost IoT + AI edge monitoring device to safeguard drinking water quality in Solapur communities.
+          - generic [ref=e667]:
+            - generic [ref=e668]: Collaborated within a multidisciplinary team to design real-time water turbidity and chemical parameter analysis.
+            - generic [ref=e673]: Developed solar-powered autonomous power profile for remote deployment across rural Solapur.
+            - generic [ref=e678]: Presented technical architecture aligning with UN Sustainable Development Goals.
+          - generic [ref=e683]:
+            - generic [ref=e684]: AI / Edge ML
+            - generic [ref=e685]: IoT Sensors
+            - generic [ref=e686]: Solar Power Hardware
+            - generic [ref=e687]: Data Telemetry
+        - generic [ref=e688]:
+          - generic [ref=e689]: United Nations SDG Alignment
+          - generic [ref=e690]:
+            - generic [ref=e691]: "3"
+            - generic [ref=e692]:
+              - heading "SDG Goal 3" [level=5] [ref=e693]
+              - paragraph [ref=e694]: Good Health & Well-Being
+          - generic [ref=e695]:
+            - generic [ref=e696]: "6"
+            - generic [ref=e697]:
+              - heading "SDG Goal 6" [level=5] [ref=e698]
+              - paragraph [ref=e699]: Clean Water & Sanitation
+          - generic [ref=e700]:
+            - generic [ref=e701]: "11"
+            - generic [ref=e702]:
+              - heading "SDG Goal 11" [level=5] [ref=e703]
+              - paragraph [ref=e704]: Sustainable Cities & Communities
+    - generic [ref=e706]:
+      - generic [ref=e707]:
+        - generic [ref=e708]: Academic Foundation
+        - heading "Education & Engineering Rigor." [level=2] [ref=e709]
+        - paragraph [ref=e710]: Formative academics establishing theoretical and mathematical foundations for artificial intelligence and systems engineering.
+      - generic [ref=e711]:
+        - generic [ref=e714]:
+          - generic [ref=e715]:
+            - generic [ref=e716]: In Progress
+            - generic [ref=e717]: 2025 – 2029 (Currently in 2nd Year)
+          - heading "MIT Vishwaprayag University, Solapur" [level=3] [ref=e721]
+          - heading "B.Tech in Computer Science & Engineering (AI & Machine Learning)" [level=4] [ref=e722]
+          - generic [ref=e723]: Solapur, Maharashtra, India
+          - paragraph [ref=e728]: Focused on machine learning theory, deep neural networks, operating systems, algorithms, and distributed computing architectures.
+          - generic [ref=e729]:
+            - generic [ref=e730]: Specialization in Artificial Intelligence & Machine Learning
+            - generic [ref=e735]: Active participant in technical hackathons and competitive programming
+            - generic [ref=e740]: Independent open-source creator alongside academic coursework
+        - generic [ref=e747]:
+          - generic [ref=e748]:
+            - generic [ref=e749]: Completed
+            - generic [ref=e750]: Completed
+          - heading "Walchand College of Arts and Science, Solapur" [level=3] [ref=e754]
+          - heading "Higher Secondary Certificate (HSC) — Science Stream" [level=4] [ref=e755]
+          - generic [ref=e756]: Solapur, Maharashtra, India
+          - paragraph [ref=e761]: Rigorous foundation in Physics, Chemistry, Mathematics, and Computer Science.
+          - generic [ref=e762]: Strong mathematical and analytical foundation
+        - generic [ref=e770]:
+          - generic [ref=e771]:
+            - generic [ref=e772]: Completed
+            - generic [ref=e773]: Completed
+          - heading "S.R. Chandak English High School, Solapur" [level=3] [ref=e777]
+          - heading "Secondary School Certificate (SSC)" [level=4] [ref=e778]
+          - generic [ref=e779]: Solapur, Maharashtra, India
+          - paragraph [ref=e784]: Completed with academic excellence.
+          - generic [ref=e785]: Foundational education with emphasis on sciences and logic
+    - generic [ref=e792]:
+      - generic [ref=e793]:
+        - generic [ref=e794]: Open Source & GitHub Ecosystem
+        - heading "Committed to Public Code. Continuous Shipping." [level=2] [ref=e795]
+        - paragraph [ref=e796]: All core architectures, RAG pipelines, and 3D shaders are developed in public repositories.
+      - generic [ref=e797]:
+        - link "Artifical-Intelligence-Chatbot Local RAG Chatbot querying AI strategy books with Ollama, FAISS, ChromaDB & Streamlit. Python Active" [ref=e798] [cursor=pointer]:
+          - /url: https://github.com/exobhavinss-sketch/Artifical-Intelligence-Chatbot
+          - generic [ref=e799]:
+            - heading "Artifical-Intelligence-Chatbot" [level=4] [ref=e807]
+            - paragraph [ref=e808]: Local RAG Chatbot querying AI strategy books with Ollama, FAISS, ChromaDB & Streamlit.
+          - generic [ref=e809]:
+            - generic [ref=e810]: Python
+            - generic [ref=e813]: Active
+        - link "Our-Earth 3D Earth educational experience with GLSL shaders, Three.js, React & GSAP. TypeScript Active" [ref=e814] [cursor=pointer]:
+          - /url: https://github.com/exobhavinss-sketch/Our-Earth
+          - generic [ref=e815]:
+            - heading "Our-Earth" [level=4] [ref=e823]
+            - paragraph [ref=e824]: 3D Earth educational experience with GLSL shaders, Three.js, React & GSAP.
+          - generic [ref=e825]:
+            - generic [ref=e826]: TypeScript
+            - generic [ref=e829]: Active
+        - link "GitHub-Mentor-AI AI Mentor backend for Git/Dev workflows with FastAPI, FAISS & streaming SSE. Python Active" [ref=e830] [cursor=pointer]:
+          - /url: https://github.com/exobhavinss-sketch/GitHub-Mentor-AI
+          - generic [ref=e831]:
+            - heading "GitHub-Mentor-AI" [level=4] [ref=e839]
+            - paragraph [ref=e840]: AI Mentor backend for Git/Dev workflows with FastAPI, FAISS & streaming SSE.
+          - generic [ref=e841]:
+            - generic [ref=e842]: Python
+            - generic [ref=e845]: Active
+        - link "ai-pathfinder-buddy-18 Interactive roadmap and fundamentals repository for new AI/ML students. Python Active" [ref=e846] [cursor=pointer]:
+          - /url: https://github.com/exobhavinss-sketch/ai-pathfinder-buddy-18
+          - generic [ref=e847]:
+            - heading "ai-pathfinder-buddy-18" [level=4] [ref=e855]
+            - paragraph [ref=e856]: Interactive roadmap and fundamentals repository for new AI/ML students.
+          - generic [ref=e857]:
+            - generic [ref=e858]: Python
+            - generic [ref=e861]: Active
+      - link "Follow Bhavin on GitHub" [ref=e863] [cursor=pointer]:
+        - /url: https://github.com/exobhavinss-sketch
+    - generic [ref=e872]:
+      - generic [ref=e873]:
+        - generic [ref=e874]: Get In Touch
+        - heading "Let's Build Something. Extraordinary." [level=2] [ref=e875]
+        - paragraph [ref=e876]: Open for AI engineering internships, full-stack collaborations, startup discussions, and open-source contributions.
+      - generic [ref=e877]:
+        - generic [ref=e878]:
+          - generic [ref=e879]:
+            - text: Direct Connect
+            - heading "Reach Out Directly" [level=3] [ref=e880]
+            - paragraph [ref=e881]: Fastest response via email or LinkedIn.
+            - generic [ref=e882]:
+              - generic [ref=e883]:
+                - generic [ref=e889]:
+                  - paragraph [ref=e890]: Email
+                  - link "exobhavinss@gmail.com" [ref=e891] [cursor=pointer]:
+                    - /url: mailto:exobhavinss@gmail.com
+                - button "Copy Email Address" [ref=e892] [cursor=pointer]
+              - generic [ref=e896]:
+                - generic [ref=e901]:
+                  - paragraph [ref=e902]: Phone
+                  - paragraph [ref=e903]: +91 9579111964
+                - button "Copy Phone Number" [ref=e904] [cursor=pointer]
+              - generic [ref=e913]:
+                - paragraph [ref=e914]: Location
+                - paragraph [ref=e915]: Solapur, Maharashtra, India
+          - generic [ref=e916]:
+            - generic [ref=e917]: Official Document
+            - paragraph [ref=e918]: Download Bhavin's comprehensive 1-page official resume in Microsoft Word (.DOCX) format.
+            - link "Download Bhavin Shankur's Resume in DOCX format" [ref=e921] [cursor=pointer]:
+              - /url: ./resume/Bhavin Shankur - Resume.docx
+              - generic [ref=e927]: Download Resume
+              - generic [ref=e928]: DOCX
+        - generic [ref=e932]:
+          - generic [ref=e933]:
+            - text: Send a Message
+            - heading "Direct Message" [level=3] [ref=e934]
+            - paragraph [ref=e935]: Have a project, startup idea, or role in mind? Send an instant note.
+            - generic [ref=e936]:
+              - generic [ref=e937]:
+                - generic [ref=e938]: Your Name
+                - textbox "e.g. Tim Cook / Hiring Manager" [ref=e939]
+              - generic [ref=e940]:
+                - generic [ref=e941]: Your Email Address
+                - textbox "e.g. name@company.com" [ref=e942]
+              - generic [ref=e943]:
+                - generic [ref=e944]: Message
+                - textbox "Tell me about your team, role, or project..." [ref=e945]
+              - button "Send Message" [ref=e946] [cursor=pointer]
+          - generic [ref=e951]:
+            - generic [ref=e952]: Professional Profiles
+            - generic [ref=e953]:
+              - link "LinkedIn" [ref=e954] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/bhavin-shankur-8421a0371
+              - link "GitHub" [ref=e960] [cursor=pointer]:
+                - /url: https://github.com/exobhavinss-sketch
+  - contentinfo [ref=e965]:
+    - generic [ref=e966]:
+      - generic [ref=e967]:
+        - generic [ref=e968]:
+          - generic [ref=e969]:
+            - generic [ref=e970]: BS
+            - heading "Bhavin Shriniwas Shankur" [level=4] [ref=e971]
+          - paragraph [ref=e972]: AI Engineer • Full-Stack Developer • 2nd Year B.Tech CSE (AIML) at MIT Vishwaprayag University.
+        - generic [ref=e973]:
+          - generic [ref=e974]: "Solapur, IN: 01:38:41 am"
+          - button "Back to Top" [ref=e977] [cursor=pointer]
+      - generic [ref=e981]:
+        - paragraph [ref=e982]: © 2026 Bhavin Shriniwas Shankur. All rights reserved.
+        - generic [ref=e983]:
+          - link "Resume (.DOCX)" [ref=e984] [cursor=pointer]:
+            - /url: ./resume/Bhavin Shankur - Resume.docx
+          - link "GitHub" [ref=e985] [cursor=pointer]:
+            - /url: https://github.com/exobhavinss-sketch
+          - link "LinkedIn" [ref=e986] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/bhavin-shankur-8421a0371
