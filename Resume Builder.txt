@@ -1,0 +1,272 @@
+1. Header
+
+Include:
+
+Full Name = Bhavin Shriniwas Shankur
+Phone Number = 9579111964
+Professional Email = exobhavinss@gmail.com
+LinkedIn = www.linkedin.com/in/bhavin-shankur-8421a0371
+GitHub = https://github.com/exobhavinss-sketch
+Portfolio Website
+City, State = Solapur / Maharashtra
+2. Professional Summary (2–4 lines)
+
+Briefly describe:
+
+Your degree and year = 2nd year B.Tech CSE AIML (Artifical Intelligence And Machine Learning)
+Areas of interest = Open Source Contributor , Startups ,  Full-Stack Developer & AI Learner
+Career objective = To build a startup that helps the computing world
+
+Example:
+
+Second-year B.Tech student specializing in Artificial Intelligence and Machine Learning with a strong interest in software development, machine learning, and cloud computing. Passionate about building real-world projects, learning modern technologies, and continuously improving problem-solving skills.
+
+3. Education
+
+Include:
+School = S.R Chandak English High School , Solapur (Passed SSC Exam)
+College (11th & 12th) = Walchand College Of arts and science , Solapur(Science Side) (Passed HSC Exam)
+Degree = Completed 10th And 12th
+University = Cuurently Pursuing B.Tech CSE AIML from MIT Vishwaprayag University Solapur (Currently In second Year)
+Expected Graduation Year = 2029
+
+Example:
+
+B.Tech in Artificial Intelligence & Machine Learning
+MIT Vishwaprayag University
+2025–2029
+4. Technical Skills
+Programming Languages
+Python
+C
+C++
+Java
+JavaScript
+Web Development
+HTML
+CSS
+JavaScript
+React
+Node.js
+AI/ML
+NumPy
+Pandas
+Scikit-learn
+TensorFlow (if learned)
+Database
+MySQL
+MongoDB
+Cloud
+Oracle Cloud Infrastructure
+AWS (if applicable)
+Tools
+Git
+GitHub
+VS Code
+Jupyter Notebook
+Wokwi
+Postman
+5. Projects
+
+Include 3–5 quality projects.
+
+For each project:
+
+Project name
+Technologies used
+What it does
+Your contribution
+GitHub link
+
+
+### Project Name
+
+**Book RAG Chatbot – Artificial Intelligence Chatbot**
+
+### Technologies Used
+
+**Python, Streamlit, Ollama, ChromaDB, FAISS, LangChain/RAG, PyMuPDF, Tesseract OCR, Sentence Transformers**
+
+### What It Does
+
+A fully local **Retrieval-Augmented Generation (RAG) chatbot** that answers questions from AI strategy books. It uses multiple retrieval strategies, vector search, reranking, citations, confidence scoring, and hallucination checks to generate reliable answers. The application runs locally using **Ollama**, without requiring cloud AI APIs.
+
+### Your Contribution
+
+**Designed and developed the chatbot system, implemented the RAG pipeline, integrated local LLM and vector databases, developed document processing and retrieval features, and created the Streamlit-based user interface.**
+
+### GitHub Link
+
+https://github.com/exobhavinss-sketch/Artifical-Intelligence-Chatbot
+
+
+
+
+### Project Name
+
+**Our Earth — The Living Planet**
+
+### Technologies Used
+
+**React, TypeScript, Vite, Three.js, React Three Fiber, Drei, GLSL Shaders, GSAP, ScrollTrigger, Framer Motion, Tailwind CSS, Lenis Smooth Scroll**
+
+### What It Does
+
+An interactive **3D educational website about Planet Earth** that takes users through Earth's 4.5-billion-year story using a cinematic, scroll-driven experience. It features a procedurally generated 3D Earth, interactive continents, atmosphere exploration, aurora effects, and an animated CO₂ climate visualization.
+
+### Your Contribution
+
+**Designed and developed the complete interactive web experience, including the 3D Earth scene, custom GLSL shaders, scroll-based animations, interactive educational chapters, responsive UI, and climate data visualization.**
+
+### GitHub Link
+
+https://github.com/exobhavinss-sketch/Our-Earth
+
+
+
+### Project Name
+
+**GitHub Mentor AI**
+
+### Technologies Used
+
+**Python, FastAPI, Ollama, FAISS, RAG, LangChain, Sentence Transformers, Pydantic, REST API**
+
+### What It Does
+
+An open-source AI mentor designed to help users with **GitHub, web development, and programming**. It uses a **RAG-based knowledge system with FAISS** to retrieve relevant information and **Ollama** to generate AI-powered answers. It also supports normal and streaming chat responses through a FastAPI backend.
+
+### Your Contribution
+
+**Designed and developed the complete AI mentoring backend, implemented the RAG pipeline and FAISS-based retrieval system, integrated Ollama for AI response generation, created FastAPI chat and streaming APIs, and built the supporting document-processing and embedding components.** The repository contains dedicated modules for loading, splitting, embedding, retrieval, prompt construction, vector storage, and Ollama integration.
+
+### GitHub Link
+
+https://github.com/exobhavinss-sketch/GitHub-Mentor-AI
+
+### Project Name
+
+**AI Pathfinder Buddy**
+
+
+### What It Does
+
+**Helps New student to learn About Artificial Intelligence**
+
+
+### GitHub Link
+
+https://github.com/exobhavinss-sketch/ai-pathfinder-buddy-18
+
+
+
+
+
+
+6. Certifications
+🤖 Artificial Intelligence
+✨ Generative AI
+🧠 Prompt Engineering
+💬 ChatGPT
+🤖 OpenAI GPTs (Custom GPTs)
+Claude Code
+Microsoft Azure AI
+Google Cloud AI
+Oracle Cloud Infrastructure
+NVIDIA AI & Networking
+Cisco Networking
+Cybersecurity
+Python
+C Programming
+C++ (OOP)
+MATLAB
+Data Structures & Algorithms
+Data Science
+AI Infrastructure
+Web Development (HTML & CSS)
+Website Creation
+Google Ads
+AI Content Creation
+Data Analysis
+AI Ethics
+Problem Solving & Decision Making
+Digital Productivity
+Internship Experience (2-month HTML/CSS internship)
+Yuva AI for All (Completion + Participation + Report)
+
+Examples:
+
+7. Achievements
+
+Academic & Professional
+B.Tech in Artificial Intelligence & Machine Learning (2nd Year) with hands-on experience in AI application development.
+AI & Software Development
+Developed multiple end-to-end AI applications, including:
+GitHub Mentor AI
+Book RAG Chatbot
+AI Pathfinder Buddy
+Built Retrieval-Augmented Generation (RAG) applications using local LLMs, vector databases, and semantic search.
+Developed REST APIs using FastAPI and integrated AI models for intelligent question answering.
+Implemented FAISS-based vector search and document retrieval systems.
+Technical Skills & Projects
+Built full-stack AI applications using Python, FastAPI, Streamlit, Ollama, LangChain, and FAISS.
+Worked on local Large Language Model (LLM) integration and AI-powered developer tools.
+Developed GitHub portfolio projects showcasing AI, RAG, and backend development skills.
+Certifications
+Oracle Cloud Infrastructure Foundations Certification.
+Python for Data Science, AI & Development Certification.
+Prompt Engineering for ChatGPT Certification.
+Introduction to Programming with MATLAB Certification.
+OpenAI GPTs: Creating Your Own Custom AI Assistants Certification.
+Yuva AI Certification.
+C++ (Object-Oriented Programming) Training Certificate.
+Additional Achievements
+Built and maintained multiple open-source projects on GitHub.
+Gained practical experience with modern AI frameworks and developer tools.
+Continuously upskilled through professional certifications in AI, cloud computing, and software development.
+Strong 4-Point Version (Best for Resume)
+Developed 3+ AI-powered applications using Python, FastAPI, Streamlit, LangChain, Ollama, and FAISS.
+Earned 7+ industry certifications in AI, Python, cloud computing, prompt engineering, MATLAB, and C++ programming.
+Built Retrieval-Augmented Generation (RAG) systems with semantic search, vector databases, and local LLMs.
+Published multiple AI and software development projects on GitHub, demonstrating practical experience in modern AI engineering.
+
+These are all resume-appropriate and consistent with the projects and certifications we've discussed together.
+9. Leadership / Extracurricular
+
+Leadership
+Team Member – TheChernobylIsotopes
+Collaborated with teammates to develop an AI-based solution for the Samved Hackathon focused on improving drinking water safety in Solapur through a low-cost, solar-powered monitoring system.
+
+(If you were the team leader or project coordinator, tell me—I can update this.)
+
+Extracurricular Activities
+Participated in the Samved Hackathon, contributing to the design of an AI-enabled water quality monitoring solution addressing SDGs 3, 6, and 11.
+Developed multiple AI and software development projects outside the classroom and published them on GitHub.
+Completed multiple industry certifications in AI, cloud computing, Python, prompt engineering, and MATLAB.
+10. Languages
+
+English
+Hindi
+Marathi
+
+11. Interests
+
+Stratups
+Artificial Intelligence
+Machine Learning
+Software Development
+Cloud Computing
+Open Source
+Data Science
+
+12. Links
+
+Include:
+
+GitHub = https://github.com/exobhavinss-sketch
+LinkedIn = www.linkedin.com/in/bhavin-shankur-8421a0371
+Keep it to one page while you're a student.
+Tailor your resume for the role you're applying to (AI/ML, software development, data science, etc.).
+Quantify achievements where possible (e.g., "Developed 5+ academic and personal projects").
+Include only skills you're comfortable discussing in an interview.
+Add links to your GitHub repositories and portfolio so recruiters can see your work.
