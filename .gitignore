@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.playwright-mcp/
+Personal-Portfolio/node_modules/
+Personal-Portfolio/dist/
+Personal-Portfolio/*.tsbuildinfo
+Personal-Portfolio/.playwright-mcp/
