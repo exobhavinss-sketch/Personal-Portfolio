@@ -126,11 +126,6 @@ export const portfolioData: PortfolioData = {
       label: 'Local RAG Privacy',
       value: '100%',
       description: 'Zero external cloud API dependencies for secure inference'
-    },
-    {
-      label: 'B.Tech CSE (AIML)',
-      value: '2029',
-      description: 'MIT Vishwaprayag University, Solapur'
     }
   ],
 

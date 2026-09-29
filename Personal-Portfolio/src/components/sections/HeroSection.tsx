@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { ArrowDown, Terminal, ShieldCheck, Cpu } from 'lucide-react'
+import { ArrowDown, Terminal, ShieldCheck, Cpu, GraduationCap } from 'lucide-react'
 import { GithubIcon } from '../ui/Icons'
 import { ResumeDownloadButton } from '../ui/ResumeDownloadButton'
 import { portfolioData } from '../../data/portfolioData'
@@ -150,6 +150,23 @@ export const HeroSection: React.FC = () => {
               </span>
             </div>
           ))}
+        </motion.div>
+
+        {/* Academic Status Pill */}
+        <motion.div
+          initial={{ opacity: 0, y: 15 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.7, delay: 0.7, ease: [0.16, 1, 0.3, 1] }}
+          className="mt-5 inline-flex flex-wrap items-center justify-center gap-2 sm:gap-3 px-5 py-2.5 rounded-full bg-black/5 dark:bg-white/5 border border-black/10 dark:border-white/10 text-xs sm:text-sm font-medium text-[#86868B] dark:text-[#A1A1A6] backdrop-blur-md hover:border-black/20 dark:hover:border-white/20 transition-colors"
+        >
+          <div className="flex items-center gap-1.5 text-[#0071E3] dark:text-[#2997FF] font-semibold">
+            <GraduationCap className="w-4 h-4" />
+            <span>B.Tech CSE (AIML)</span>
+          </div>
+          <span className="hidden sm:inline text-black/20 dark:text-white/20">•</span>
+          <span>Class of 2029</span>
+          <span className="hidden sm:inline text-black/20 dark:text-white/20">•</span>
+          <span className="text-[#1D1D1F] dark:text-[#D1D1D6]">MIT Vishwaprayag University</span>
         </motion.div>
       </div>
     </section>
