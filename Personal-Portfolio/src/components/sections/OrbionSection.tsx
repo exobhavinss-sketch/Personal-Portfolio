@@ -113,7 +113,7 @@ export const OrbionSection: React.FC = () => {
                 className="inline-flex items-center gap-2.5 px-6 py-3 rounded-full bg-[#5B4FFF] hover:bg-[#4D40FA] text-white text-sm font-semibold shadow-[0_4px_20px_rgba(91,79,255,0.35)] transition-all duration-300 hover:scale-[1.02] active:scale-98 cursor-pointer"
               >
                 <Globe className="w-4 h-4" />
-                <span>Visit orbion.in</span>
+                <span>Visit Orbion.in</span>
                 <ArrowUpRight className="w-4 h-4 stroke-[2.5]" />
               </a>
 

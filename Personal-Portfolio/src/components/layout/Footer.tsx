@@ -70,7 +70,7 @@ export const Footer: React.FC = () => {
 
           <div className="flex items-center gap-6">
             <a
-              href="https://orbion.in"
+              href={portfolioData.orbion.websiteUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="text-[#5B4FFF] dark:text-[#00E0D6] font-semibold hover:underline transition-colors"

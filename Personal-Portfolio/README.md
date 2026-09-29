@@ -13,7 +13,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-  <b>Official Personal Portfolio Website</b> for Bhavin Shriniwas Shankur.<br/>
+  <b>Official Personal Portfolio Website</b> for Bhavin Shankur.<br/>
   Engineered with React 19, TypeScript, Tailwind CSS v4, Framer Motion, and Lenis Smooth Scrolling.<br/>
   Crafted in alignment with Apple Human Interface Design principles and optimized for <b>GitHub Pages</b>, <b>Vercel</b>, <b>Netlify</b>, and <b>Render</b>.
 </p>

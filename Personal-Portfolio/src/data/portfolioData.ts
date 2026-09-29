@@ -2,7 +2,7 @@ import { PortfolioData } from '../types/portfolio'
 
 export const portfolioData: PortfolioData = {
   personal: {
-    fullName: 'Bhavin Shriniwas Shankur',
+    fullName: 'Bhavin Shankur',
     shortName: 'Bhavin Shankur',
     roleTitles: [
       'Co-Founder & CEO @ Orbion',
@@ -27,7 +27,7 @@ export const portfolioData: PortfolioData = {
     legalName: 'Orbion Technologies',
     role: 'Co-Founder & CEO',
     tagline: 'The AI Operating System for modern businesses.',
-    websiteUrl: 'https://orbion.in',
+    websiteUrl: 'https://orbion-in.vercel.app/',
     statusBadge: 'EARLY ARCHITECTURE • V1.0 PREVIEW',
     vision:
       'My vision is to build technology that makes intelligent software accessible to every business. I believe the next generation of businesses will not rely only on traditional software. They will work alongside intelligent AI systems capable of understanding tasks, making decisions, using tools, and executing workflows. Orbion is my attempt to build toward that future.',
