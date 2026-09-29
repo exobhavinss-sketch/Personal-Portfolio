@@ -31,7 +31,7 @@ export const AboutSection: React.FC = () => {
   ]
 
   return (
-    <section id="about" className="py-24 sm:py-32 px-4 sm:px-6 relative">
+    <section id="about" className="pt-8 sm:pt-12 pb-20 sm:pb-28 px-4 sm:px-6 relative scroll-mt-20">
       <div className="max-w-6xl mx-auto">
         <SectionHeader
           eyebrow="The Story & Philosophy"

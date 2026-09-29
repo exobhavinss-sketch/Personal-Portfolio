@@ -9,7 +9,7 @@ export const HeroSection: React.FC = () => {
   const { personal, metrics } = portfolioData
 
   return (
-    <section className="relative min-h-[92vh] flex flex-col items-center justify-center pt-28 pb-16 px-4 sm:px-6 overflow-hidden">
+    <section className="relative flex flex-col items-center pt-28 pb-8 sm:pb-12 px-4 sm:px-6 overflow-hidden">
       {/* Background Subtle Radial Gradient for Hero */}
       <div className="absolute top-1/3 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] sm:w-[850px] h-[400px] bg-gradient-to-b from-[#2997FF]/15 via-[#9E53E8]/10 to-transparent blur-[120px] pointer-events-none -z-10" />
 
@@ -95,7 +95,7 @@ export const HeroSection: React.FC = () => {
           initial={{ opacity: 0, scale: 0.95 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.8, delay: 0.5, ease: [0.16, 1, 0.3, 1] }}
-          className="mt-14 w-full max-w-4xl p-5 sm:p-7 rounded-3xl apple-glass-card border border-white/10 dark:border-white/10 shadow-2xl relative overflow-hidden"
+          className="mt-10 sm:mt-12 w-full max-w-4xl p-5 sm:p-7 rounded-3xl apple-glass-card border border-white/10 dark:border-white/10 shadow-2xl relative overflow-hidden"
         >
           <div className="flex flex-col md:flex-row items-center justify-between gap-6 text-left">
             <div className="flex items-center gap-4">
@@ -135,7 +135,7 @@ export const HeroSection: React.FC = () => {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, delay: 0.6, ease: [0.16, 1, 0.3, 1] }}
-          className="mt-12 grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4 w-full max-w-4xl"
+          className="mt-6 sm:mt-7 grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4 w-full max-w-4xl"
         >
           {metrics.map((m, idx) => (
             <div
@@ -157,7 +157,7 @@ export const HeroSection: React.FC = () => {
           initial={{ opacity: 0, y: 15 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, delay: 0.7, ease: [0.16, 1, 0.3, 1] }}
-          className="mt-5 inline-flex flex-wrap items-center justify-center gap-2 sm:gap-3 px-5 py-2.5 rounded-full bg-black/5 dark:bg-white/5 border border-black/10 dark:border-white/10 text-xs sm:text-sm font-medium text-[#86868B] dark:text-[#A1A1A6] backdrop-blur-md hover:border-black/20 dark:hover:border-white/20 transition-colors"
+          className="mt-3.5 sm:mt-4 inline-flex flex-wrap items-center justify-center gap-2 sm:gap-3 px-5 py-2.5 rounded-full bg-black/5 dark:bg-white/5 border border-black/10 dark:border-white/10 text-xs sm:text-sm font-medium text-[#86868B] dark:text-[#A1A1A6] backdrop-blur-md hover:border-black/20 dark:hover:border-white/20 transition-colors"
         >
           <div className="flex items-center gap-1.5 text-[#0071E3] dark:text-[#2997FF] font-semibold">
             <GraduationCap className="w-4 h-4" />
